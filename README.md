@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vinicius Hansel</h1>
 <h3 align="center">A passionate Software Developer from Brazil 🇧🇷</h3>
 
+- 🔭 I’m currently working and studying
+
 - 🌱 I’m currently learning **Algorithms, Design Patterns, Software Design and Architecture**
 
 - 💬 Ask me about **Flutter, Java, Kotlin, NodeJs**
