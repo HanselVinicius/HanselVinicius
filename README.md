@@ -15,9 +15,8 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
 
-<div>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
  
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -38,7 +37,6 @@
   
  
   
-</div>   
   
   
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -53,7 +51,7 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   
-  <div>
+    
   <a href="https://angular.io" target="_blank" rel="noreferrer">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 
@@ -67,7 +65,6 @@
  
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- </div>
   
   
   
