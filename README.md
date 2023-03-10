@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinicius Hansel</h1>
 <h3 align="center">A passionate Software Developer from Brazil 🇧🇷</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanselvinicius&label=Profile%20views&color=0e75b6&style=flat" alt="hanselvinicius" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanselvinicius" alt="hanselvinicius" /></a> </p>
-
 - 🌱 I’m currently learning **Algorithms, Design Patterns, Software Design and Architecture**
 
 - 💬 Ask me about **Flutter, Java, Kotlin, NodeJs**
