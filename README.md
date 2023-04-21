@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working and studying
 
-- 🌱 I’m currently learning **Algorithms, computer network, Sql Test automation**
+- 🌱 I’m currently learning **Algorithms, Sql, Test automation,Java Reflection**
 
 - 💬 Ask me about **Flutter, Java, Kotlin, NodeJs**
 
