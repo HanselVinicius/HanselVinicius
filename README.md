@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working and studying
 
-- 🌱 I’m currently learning **Algorithms, Sql, Test automation,Java Reflection**
+- 🌱 I’m currently learning **Algorithms, Sql, Test automation, Threads**
 
-- 💬 Ask me about **Flutter, Java, Kotlin, NodeJs**
+- 💬 Ask me about **Flutter, Java, Kotlin, NodeJs, Python**
 
 - 📫 How to reach me **hanelvinicius@gmail.com**
 
