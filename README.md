@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working and studying
 
-- 🌱 I’m currently learning **Algorithms, Sql, Test automation, Threads**
+- 🌱 I’m currently learning **Algorithms, Test automation, Rust**
 
 - 💬 Ask me about **Flutter, Java, Kotlin, NodeJs, Python**
 
