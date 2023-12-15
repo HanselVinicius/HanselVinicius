@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working and studying
 
-- 🌱 I’m currently learning **Algorithms, and Rust**
+- 🌱 I’m currently learning **Algorithms,Architeture**
 
 - 💬 Ask me about **Flutter, Java, Kotlin, NodeJs, Python**
 
@@ -28,9 +28,6 @@
   
  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
@@ -55,9 +52,6 @@
        <a href="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> 
       </a> 
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-      </a>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
       </a> 
