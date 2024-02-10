@@ -75,7 +75,7 @@
 
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
 
-  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/apache_kafka/apache_kafka-vertical.svg" alt="kafka" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" alt="kafka" width="40" height="40"/>
 
 
  
