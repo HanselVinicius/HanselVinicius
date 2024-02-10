@@ -78,9 +78,11 @@
 
 <div style="text-align: center;">
 <h3 align="center">Infrastructure: </h3>
+<p align="center" >
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon Web Services" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+</p>
 </div>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanselvinicius&theme=dark&show_icons=true&locale=en"  alt="hanselvinicius" /></p>
