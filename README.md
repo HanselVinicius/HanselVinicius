@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Algorithms,Architeture**
 
-- 💬 Ask me about **Flutter, Java, Kotlin, NodeJs, Python**
+- 💬 Ask me about **Java, Kotlin, NodeJs, Python**
 
 - 📫 How to reach me **hanelvinicius@gmail.com**
 
