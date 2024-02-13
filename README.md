@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinicius Hansel</h1>
 <h3 align="center">A passionate Software Developer from Brazil 🇧🇷</h3>
 
-- 🔭 I’m currently working and studying
+- 🔭 I’m currently working and studying and looking for new oportunities to improve
 
 - 🌱 I’m currently learning **Algorithms,Architeture**
 
