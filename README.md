@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working, studying and looking for new oportunities to improve
 
-- 🌱 I’m currently learning **Algorithms,Architeture**
+- 🌱 I’m currently learning **Architeture**
 
 - 💬 Ask me about **Java, Kotlin, NodeJs, Python**
 
