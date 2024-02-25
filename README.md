@@ -1,13 +1,23 @@
 <h1 align="center">Hi 👋, I'm Vinicius Hansel</h1>
 <h3 align="center">A passionate Software Developer from Brazil 🇧🇷</h3>
 
-- 🔭 I’m currently working, studying and looking for new oportunities to improve
+```java
+ public static CurrentActivities getMyCurrentActivities(){
+        return new CurrentActivities("working","studying","looking for new oportunities to improve my skills and knowledge.");
+    }
 
-- 🌱 I’m currently learning **Architeture**
+ public static CurrentLearning getMyCurrentLearning(){
+        return new CurrentLearning("Architeture","Clean Code","DevOps");
+    }
 
-- 💬 Ask me about **Java, Kotlin, NodeJs, Python**
+public static AskMeAbout getAskMeAbout(){
+        return new AskMeAbout("Java", "Kotlin", "NodeJs", "Python");
+    }
 
-- 📫 How to reach me **hanelvinicius@gmail.com**
+public static Contact getContact(){
+        return new Contact("hanelvinicius@gmail.com");
+    }
+```
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
