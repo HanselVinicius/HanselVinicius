@@ -2,19 +2,19 @@
 <h3 align="center">A passionate Software Developer from Brazil 🇧🇷</h3>
 
 ```java
- public static CurrentActivities getMyCurrentActivities(){
+ public static CurrentActivities myCurrentActivities(){
         return new CurrentActivities("working","studying","looking for new oportunities to improve my skills and knowledge.");
     }
 
- public static CurrentLearning getMyCurrentLearning(){
+ public static CurrentLearning myCurrentLearning(){
         return new CurrentLearning("Architeture","Clean Code","DevOps");
     }
 
-public static AskMeAbout getAskMeAbout(){
+public static AskMeAbout askMeAbout(){
         return new AskMeAbout("Java", "Kotlin", "NodeJs", "Python");
     }
 
-public static Contact getContact(){
+public static Contact contact(){
         return new Contact("hanelvinicius@gmail.com");
     }
 ```
