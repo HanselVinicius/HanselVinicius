@@ -7,7 +7,7 @@
     }
 
  public static CurrentLearning myCurrentLearning(){
-        return new CurrentLearning("Architeture","Clean Code","DevOps");
+        return new CurrentLearning("Architeture","Clean Code","DevOps","Nest Js");
     }
 
 public static AskMeAbout askMeAbout(){
