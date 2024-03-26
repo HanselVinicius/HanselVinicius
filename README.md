@@ -3,7 +3,7 @@
 
 ```java
  public static CurrentActivities myCurrentActivities(){
-        return new CurrentActivities("working","studying","researching","looking for new oportunities to improve my skills and knowledge.");
+        return new CurrentActivities("working","studying", "looking for new oportunities to improve my skills and knowledge.");
     }
 
  public static CurrentLearning myCurrentLearning(){
