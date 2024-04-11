@@ -24,23 +24,6 @@ public static Contact contact(){
 <a href="https://www.linkedin.com/in/vinicius-hansel-figueiredo-da-costa-b90b1b220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinicius-hansel-figueiredo-da-costa-b90b1b220" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Mobile Development:</h3>
-<p align="center"> 
-
- 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  
-</p> 
-  
- 
-  
-  
 <div style="text-align: center;">
     <h3 align="center">Front-End Development:</h3>
     <p align="center">
