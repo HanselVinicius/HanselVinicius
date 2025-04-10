@@ -11,7 +11,7 @@
     }
 
 public static AskMeAbout askMeAbout(){
-        return new AskMeAbout("Java", "Kotlin", "NodeJs", "Python");
+        return new AskMeAbout("Java", "Kotlin", "NodeJs");
     }
 
 public static Contact contact(){
