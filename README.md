@@ -59,7 +59,7 @@ public static Contact contact(){
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
 
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg" alt="express" width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nest" width="40" height="40"/>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
@@ -68,7 +68,7 @@ public static Contact contact(){
 
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/>
 
- <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg" alt="flask" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~bgwhite.svg" alt="flask" width="40" height="40"/>
 
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" alt="kafka" width="40" height="40"/>
 
