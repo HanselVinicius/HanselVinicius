@@ -7,7 +7,7 @@
     }
 
  public static CurrentLearning myCurrentLearning(){
-        return new CurrentLearning("Design Patterns");
+        return new CurrentLearning("System Design");
     }
 
 public static AskMeAbout askMeAbout(){
